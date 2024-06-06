@@ -56,7 +56,7 @@
     					<option value="Film/Serie TV">Film/Serie TV</option>
     					<option value="Videogiochi">Videogiochi</option>
     					<option value="Originali">Originali</option>
-  					</select>
+  					</select> 
 				</div>
 				<div class="input-box">
 					<span class="details">Descrizione</span>
