@@ -48,5 +48,10 @@
   <security-role>
     <role-name>registeredUser</role-name>
   </security-role>
+ <filter>
+        <filter-name>ContentSecurityPolicyFilter</filter-name>
+        <filter-class>control.ContentSecurityPolicyFilter</filter-class>
+    </filter>
+
   
 </web-app>
