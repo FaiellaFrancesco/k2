@@ -10,7 +10,10 @@
 	<link rel="stylesheet" href="./css/intro-style.css">
 	<link rel="icon" href="./img/icon.png">
 	
-	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<!-- Subresource Integrity for jQuery -->
+	<script   src="https://code.jquery.com/jquery-3.2.1.slim.js"   
+	integrity="sha256-tA8y0XqiwnpwmOIl3SGAcFl2RvxHjA8qp0+1uCGmRmg="  
+	 crossorigin="anonymous"></script>
 </head>
 <body>
 
